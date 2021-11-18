@@ -1,0 +1,137 @@
+@import"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css";
+body {
+    background-image: url("wp3285523.jpg");
+    background-size: cover;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.no1 {
+    position: relative;
+}
+
+#font {
+    color: white;
+    font-size: 80px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.logo2 {
+    position: absolute;
+    top: 45px;
+    left: 200px;
+    color: white;
+    font-size: 35px;
+    font-family: 'Praise', cursive;
+}
+
+.link1 {
+    text-decoration: none;
+    border-radius: 30px;
+    color: #fff;
+    background: #107afd;
+    padding: 7px 20px;
+    float: right;
+    font-weight: bold;
+    position: absolute;
+    top: 35px;
+    right: 100px;
+}
+
+.no2 {
+    margin-top: 60px;
+    margin-left: 90px;
+}
+
+.sutun1 {
+    color: white;
+}
+
+.yazi1 {
+    margin-top: 10px;
+}
+
+.sekil1 img {
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.link2 {
+    text-decoration: none;
+    border-radius: 30px;
+    color: #fff;
+    background: #107afd;
+    padding: 7px 20px;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 25px;
+}
+
+.link3 {
+    text-decoration: none;
+    border-radius: 30px;
+    color: #fff;
+    background: #107afd;
+    padding: 7px 20px;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 25px;
+    background: transparent;
+    border: 1px solid #fff;
+}
+
+i {
+    margin-right: 5px;
+}
+
+.sekil2 {
+    width: auto;
+    height: 300px;
+}
+
+.setr {
+    display: flex;
+}
+
+.sutun2 {
+    position: absolute;
+    right: 200px;
+    top: 130px;
+}
+
+.sekil2 {
+    box-shadow: -4px 4px 5px 0 #000;
+}
+
+.header {
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 90px;
+}
+
+.sutun3 img {
+    width: auto;
+    height: 130px;
+    margin-left: 100px;
+    margin-top: 10px;
+    box-shadow: -4px 4px 5px 0 #000;
+    transition: 1s;
+}
+
+.sekil3 {
+    display: flex;
+    width: 100%;
+}
+
+.sutun3 img:hover {
+    transform: translateY(-10px);
+    border: 1px solid white;
+}
